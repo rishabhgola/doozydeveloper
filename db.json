@@ -1,0 +1,22 @@
+{
+  "Restaurants": [
+    {
+      "id": 1,
+      "name": "Yess Boss Restaurant",
+      "address": "West Vinod Nagar",
+      "email": "yessboss@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "RG Restaurant",
+      "address": "Mandawali",
+      "email": "rgrockstar@gmail.com"
+    },
+    {
+      "name": "Expresso Restaurant",
+      "address": "LA",
+      "email": "Expresso@gmail.com",
+      "id": 3
+    }
+  ]
+}
